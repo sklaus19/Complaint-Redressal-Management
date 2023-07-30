@@ -1,0 +1,12 @@
+section{
+    background-color: #98EECC;
+}
+
+.container
+{
+    background-image: url('/assets/images/back.jpg');
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    
+}
